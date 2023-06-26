@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "820740229479",
+    "project_id": "speed-chat-c3f6e",
+    "storage_bucket": "speed-chat-c3f6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820740229479:android:ec7f5958e3a804536487c2",
+        "android_client_info": {
+          "package_name": "com.example.speed_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820740229479-tq4ttsa5bern0enpmn02sgq3olpmgebb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd3qg2Dxun_oP9njr0E3CnLeVEgBfUZKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820740229479-tq4ttsa5bern0enpmn02sgq3olpmgebb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
